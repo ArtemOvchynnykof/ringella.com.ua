@@ -1,0 +1,96 @@
+
+---Upload files---
+Redux file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://theme.nileforest.com/woo/philos1
+Data file = /home/nilef82z/public_html/theme/woo/philos1/wp-content/uploads/2018/02/philos-content.xml
+Widget file = /home/nilef82z/public_html/theme/woo/philos1/wp-content/uploads/2018/02/philos-export.wie
+Customizer file = /home/nilef82z/public_html/theme/woo/philos1/wp-content/uploads/2018/02/philos-options.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Shop Categories - Imported to Inactive
+Filter Products by Price - Filter by price - Imported to Inactive
+Active Product Filters - Active filters - Imported to Inactive
+Filter Products by Attribute - Filter by color - Imported to Inactive
+Filter Products by Attribute - Filter by size - Imported to Inactive
+Product Tag Cloud - Product tags - Imported to Inactive
+Products by Rating - Top rated products - Imported to Inactive
+Image - No Title - Imported to Inactive
+
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Categories - No Title - Widget already exists
+Tag Cloud - POPULAR TAG - Imported
+
+Footer Top Column Area 1 : 
+
+Text - No Title - Imported
+NF - Follow Us Widget - No Title - Imported
+
+Footer Top Column Area 2 : 
+
+Navigation Menu - Information - Imported
+
+Footer Top Column Area 3 : 
+
+Navigation Menu - Our Links - Imported
+
+Footer Top Column Area 4 : 
+
+Navigation Menu - Extra Links - Imported
+
+Footer Top Column Area 5 : 
+
+NF - Contact Us Widget - Contact - Imported
+
+Footer Bottom Column Area : 
+
+MailPoet Subscription Form - Subscribe Newsletter - Imported
+
+Max Mega Menu Widgets : 
+
+Image - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

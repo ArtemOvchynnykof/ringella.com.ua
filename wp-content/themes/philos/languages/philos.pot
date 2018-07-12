@@ -1,0 +1,1604 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: philos\n"
+"POT-Creation-Date: 2018-03-20 10:41+0530\n"
+"PO-Revision-Date: 2018-03-20 10:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: nileforest\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"philos\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: 404.php:18
+msgid "404 Page"
+msgstr ""
+
+#: 404.php:28
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:31
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:59
+msgid "Reply"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: framework/inc/admin/page-option.php:26
+msgid "Show Page Title"
+msgstr ""
+
+#: framework/inc/admin/page-option.php:46
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: framework/inc/admin/page-option.php:65
+msgid "Page Sidebar"
+msgstr ""
+
+#: framework/inc/class-options-framework-admin.php:82
+#: framework/inc/class-options-framework-admin.php:83
+msgid "Theme Settings"
+msgstr ""
+
+#: framework/inc/class-options-framework-admin.php:190
+msgid "Save Options"
+msgstr ""
+
+#: framework/inc/class-options-framework-admin.php:191
+msgid "Restore Defaults"
+msgstr ""
+
+#: framework/inc/class-options-framework-admin.php:191
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: framework/inc/class-options-framework-admin.php:223
+msgid "Default options restored."
+msgstr ""
+
+#: framework/inc/class-options-framework-admin.php:275
+msgid "Options saved."
+msgstr ""
+
+#: framework/inc/class-options-media-uploader.php:56
+msgid "No file chosen"
+msgstr ""
+
+#: framework/inc/class-options-media-uploader.php:59
+#: framework/inc/class-options-media-uploader.php:110
+msgid "Upload"
+msgstr ""
+
+#: framework/inc/class-options-media-uploader.php:61
+#: framework/inc/class-options-media-uploader.php:111
+msgid "Remove"
+msgstr ""
+
+#: framework/inc/class-options-media-uploader.php:65
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: framework/inc/class-options-media-uploader.php:86
+msgid "View File"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:349
+msgid "No Repeat"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:350
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:351
+msgid "Repeat Vertically"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:352
+msgid "Repeat All"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:365
+msgid "Top Left"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:366
+msgid "Top Center"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:367
+msgid "Top Right"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:368
+msgid "Middle Left"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:369
+msgid "Middle Center"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:370
+msgid "Middle Right"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:371
+msgid "Bottom Left"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:372
+msgid "Bottom Center"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:373
+msgid "Bottom Right"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:387
+msgid "Scroll Normally"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:388
+msgid "Fixed in Place"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:464
+#: framework/inc/class-options-sanitization.php:474
+#: framework/theme-array.php:111
+msgid "Normal"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:465
+msgid "Italic"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:466
+#: framework/inc/class-options-sanitization.php:475
+msgid "Bold"
+msgstr ""
+
+#: framework/inc/class-options-sanitization.php:467
+msgid "Bold Italic"
+msgstr ""
+
+#: framework/inc/tab/product-tab.php:7
+msgid "Product Custom Tab Data"
+msgstr ""
+
+#: framework/inc/tab/product-tab.php:63
+msgid "Product Tab"
+msgstr ""
+
+#: framework/inc/widget/blog.php:56 framework/inc/widget/category.php:85
+#: framework/inc/widget/slider.php:51 framework/inc/widget/team.php:84
+#: framework/inc/widget/testimonial.php:47
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: framework/inc/widget/blog.php:84 framework/inc/widget/team.php:110
+#: framework/inc/widget/testimonial.php:68
+msgid "Title"
+msgstr ""
+
+#: framework/inc/widget/blog.php:90
+msgid "Number of posts to show"
+msgstr ""
+
+#: framework/inc/widget/blog.php:97
+msgid "Display post date?"
+msgstr ""
+
+#: framework/inc/widget/category.php:111 framework/inc/widget/contactus.php:66
+msgid "Title:"
+msgstr ""
+
+#: framework/inc/widget/category.php:115
+msgid "Show Category counts:"
+msgstr ""
+
+#: framework/inc/widget/contactus.php:70
+msgid "Address:"
+msgstr ""
+
+#: framework/inc/widget/contactus.php:74
+msgid "Email Address:"
+msgstr ""
+
+#: framework/inc/widget/contactus.php:78
+msgid "Phone Number:"
+msgstr ""
+
+#: framework/inc/widget/contactus.php:82
+msgid "Mobile Number:"
+msgstr ""
+
+#: framework/inc/widget/followus.php:60
+msgid "Facebook Url:"
+msgstr ""
+
+#: framework/inc/widget/followus.php:65
+msgid "Twitter Url:"
+msgstr ""
+
+#: framework/inc/widget/followus.php:70
+msgid "Pinterest Url:"
+msgstr ""
+
+#: framework/inc/widget/followus.php:75
+msgid "Google Plus Url:"
+msgstr ""
+
+#: framework/inc/widget/followus.php:80
+msgid "Instagram Url:"
+msgstr ""
+
+#: framework/inc/widget/slider.php:77
+msgid "Number of Slider Images Display"
+msgstr ""
+
+#: framework/inc/widget/team.php:114
+msgid "Number of Team Display"
+msgstr ""
+
+#: framework/inc/widget/testimonial.php:37
+msgid "-&nbsp;"
+msgstr ""
+
+#: framework/inc/widget/testimonial.php:72
+msgid "Number of Testimonial Display"
+msgstr ""
+
+#: framework/options.php:28
+msgid "General Settings"
+msgstr ""
+
+#: framework/options.php:34
+msgid "Layout Option"
+msgstr ""
+
+#: framework/options.php:35
+msgid "Define theme Layout option."
+msgstr ""
+
+#: framework/options.php:44
+msgid "Body Typography"
+msgstr ""
+
+#: framework/options.php:45
+msgid "Define body typography options."
+msgstr ""
+
+#: framework/options.php:54
+msgid "Body Background Color"
+msgstr ""
+
+#: framework/options.php:55
+msgid "Define body color here."
+msgstr ""
+
+#: framework/options.php:63
+msgid "Body Background Image"
+msgstr ""
+
+#: framework/options.php:64
+msgid "Upload body backgroud image."
+msgstr ""
+
+#: framework/options.php:71
+msgid "Body Background Repeat"
+msgstr ""
+
+#: framework/options.php:72
+msgid "Define body backgroud image repeat."
+msgstr ""
+
+#: framework/options.php:80
+msgid "Body Background Position"
+msgstr ""
+
+#: framework/options.php:81
+msgid "Define body backgroud image position."
+msgstr ""
+
+#: framework/options.php:88
+msgid "Font Settings"
+msgstr ""
+
+#: framework/options.php:94
+msgid "H1 Tag Font Family"
+msgstr ""
+
+#: framework/options.php:95
+msgid "Define theme heading H1 tag font family."
+msgstr ""
+
+#: framework/options.php:103
+msgid "H2 Tag Font Family"
+msgstr ""
+
+#: framework/options.php:104
+msgid "Define theme heading H2 tag font family."
+msgstr ""
+
+#: framework/options.php:112
+msgid "H3 Tag Font Family"
+msgstr ""
+
+#: framework/options.php:113
+msgid "Define theme heading H3 tag font family."
+msgstr ""
+
+#: framework/options.php:121
+msgid "H4 Tag Font Family"
+msgstr ""
+
+#: framework/options.php:122
+msgid "Define theme heading H4 tag font family."
+msgstr ""
+
+#: framework/options.php:130
+msgid "H5 Tag Font Family"
+msgstr ""
+
+#: framework/options.php:131
+msgid "Define theme heading H5 tag font family."
+msgstr ""
+
+#: framework/options.php:139
+msgid "H6 Tag Font Family"
+msgstr ""
+
+#: framework/options.php:140
+msgid "Define theme heading H6 tag font family."
+msgstr ""
+
+#: framework/options.php:148
+msgid "Button Font Family"
+msgstr ""
+
+#: framework/options.php:149
+msgid "Define theme Button font family."
+msgstr ""
+
+#: framework/options.php:157
+msgid "Label Font Family"
+msgstr ""
+
+#: framework/options.php:158
+msgid "Define theme Label font family."
+msgstr ""
+
+#: framework/options.php:166
+msgid "Paragraph Font Family"
+msgstr ""
+
+#: framework/options.php:167
+msgid "Define theme Paragraph font family."
+msgstr ""
+
+#: framework/options.php:175
+msgid "Alt/Sub Font Family"
+msgstr ""
+
+#: framework/options.php:176
+msgid "Define theme alt/sub font family."
+msgstr ""
+
+#: framework/options.php:184
+msgid "Header Settings"
+msgstr ""
+
+#: framework/options.php:190
+msgid "Header Style"
+msgstr ""
+
+#: framework/options.php:191
+msgid "Define header style."
+msgstr ""
+
+#: framework/options.php:199
+msgid "Header Phone Number Label"
+msgstr ""
+
+#: framework/options.php:200
+msgid "Define your phone number Label."
+msgstr ""
+
+#: framework/options.php:208
+msgid "Header Phone Number"
+msgstr ""
+
+#: framework/options.php:209
+msgid "Define your phone number."
+msgstr ""
+
+#: framework/options.php:217
+msgid "Upload Logo"
+msgstr ""
+
+#: framework/options.php:218
+msgid "Upload your logo."
+msgstr ""
+
+#: framework/options.php:226
+msgid "Logo Image Alt"
+msgstr ""
+
+#: framework/options.php:227
+msgid "Define logo image alt here."
+msgstr ""
+
+#: framework/options.php:235
+msgid "Display Site Description?"
+msgstr ""
+
+#: framework/options.php:236
+msgid "Show/hide Site Description."
+msgstr ""
+
+#: framework/options.php:244
+msgid "Display Buy Now Button"
+msgstr ""
+
+#: framework/options.php:245
+msgid "Show/hide buy now button."
+msgstr ""
+
+#: framework/options.php:254
+msgid "Buy Now Button Label"
+msgstr ""
+
+#: framework/options.php:255
+msgid "Define buy now button label."
+msgstr ""
+
+#: framework/options.php:263
+msgid "Buy Now Button Link"
+msgstr ""
+
+#: framework/options.php:264
+msgid "Define buy now button link."
+msgstr ""
+
+#: framework/options.php:272
+msgid "Display Search Button"
+msgstr ""
+
+#: framework/options.php:273
+msgid "Show/hide search button."
+msgstr ""
+
+#: framework/options.php:282
+msgid "Display Wishlist Button"
+msgstr ""
+
+#: framework/options.php:283
+msgid "Show/hide wishlist button."
+msgstr ""
+
+#: framework/options.php:292
+msgid "Display AddToCart Button"
+msgstr ""
+
+#: framework/options.php:293
+msgid "Show/hide addtocart button."
+msgstr ""
+
+#: framework/options.php:302
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/options.php:308
+msgid "Footer Address"
+msgstr ""
+
+#: framework/options.php:309
+msgid "Define address."
+msgstr ""
+
+#: framework/options.php:318
+msgid "Footer Email Address"
+msgstr ""
+
+#: framework/options.php:319
+msgid "Define email address."
+msgstr ""
+
+#: framework/options.php:327
+msgid "Footer Phone Number"
+msgstr ""
+
+#: framework/options.php:328
+msgid "Define phone number."
+msgstr ""
+
+#: framework/options.php:336
+msgid "Footer Fax Number"
+msgstr ""
+
+#: framework/options.php:337
+msgid "Define fax number."
+msgstr ""
+
+#: framework/options.php:345
+msgid "Footer Copyrights"
+msgstr ""
+
+#: framework/options.php:346
+msgid "Define copyrights text."
+msgstr ""
+
+#: framework/options.php:354
+msgid "Footer Copyrights Link"
+msgstr ""
+
+#: framework/options.php:355
+msgid "Define copyrights Link."
+msgstr ""
+
+#: framework/options.php:363
+msgid "Footer Copyrights Slogan"
+msgstr ""
+
+#: framework/options.php:364
+msgid "Define copyrights Slogan"
+msgstr ""
+
+#: framework/options.php:372
+msgid "Display Footer Payment Image"
+msgstr ""
+
+#: framework/options.php:373
+msgid "Show/hide footer payment image."
+msgstr ""
+
+#: framework/options.php:381
+msgid "Footer Payment Image"
+msgstr ""
+
+#: framework/options.php:382
+msgid "Upload payment image."
+msgstr ""
+
+#: framework/options.php:390
+msgid "Display Footer Widget"
+msgstr ""
+
+#: framework/options.php:391
+msgid "Show/hide footer Widget."
+msgstr ""
+
+#: framework/options.php:400
+msgid "Social Media Links"
+msgstr ""
+
+#: framework/options.php:406
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/options.php:407
+msgid "Define your facebook link."
+msgstr ""
+
+#: framework/options.php:415
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/options.php:416
+msgid "Define your twitter link."
+msgstr ""
+
+#: framework/options.php:424
+msgid "Pinterest URL"
+msgstr ""
+
+#: framework/options.php:425
+msgid "Define your pinterest link."
+msgstr ""
+
+#: framework/options.php:433
+msgid "Google Plus URL"
+msgstr ""
+
+#: framework/options.php:434
+msgid "Define your google plus link."
+msgstr ""
+
+#: framework/options.php:442
+msgid "Instagram URL"
+msgstr ""
+
+#: framework/options.php:443
+msgid "Define your instagram link."
+msgstr ""
+
+#: framework/options.php:451
+msgid "Popup Setting"
+msgstr ""
+
+#: framework/options.php:457
+msgid "Display Popup"
+msgstr ""
+
+#: framework/options.php:458
+msgid "Show/hide popup."
+msgstr ""
+
+#: framework/options.php:467
+msgid "Popup Background Color"
+msgstr ""
+
+#: framework/options.php:468
+msgid "Define popup color here."
+msgstr ""
+
+#: framework/options.php:476
+msgid "Popup Background Image"
+msgstr ""
+
+#: framework/options.php:477
+msgid "Upload popup backgroud image."
+msgstr ""
+
+#: framework/options.php:485
+msgid "Popup Background Repeat"
+msgstr ""
+
+#: framework/options.php:486
+msgid "Define popup backgroud image repeat."
+msgstr ""
+
+#: framework/options.php:495
+msgid "Popup Background Position"
+msgstr ""
+
+#: framework/options.php:496
+msgid "Define popup backgroud image position."
+msgstr ""
+
+#: framework/options.php:504
+msgid "Popup Heading"
+msgstr ""
+
+#: framework/options.php:505
+msgid "Define your popup heading text."
+msgstr ""
+
+#: framework/options.php:513
+msgid "Popup Top Text"
+msgstr ""
+
+#: framework/options.php:514
+msgid "Define your popup top text."
+msgstr ""
+
+#: framework/options.php:522
+msgid "Popup Form ID"
+msgstr ""
+
+#: framework/options.php:523
+msgid "Define your popup form id."
+msgstr ""
+
+#: framework/options.php:531
+msgid "Popup Bottom Text"
+msgstr ""
+
+#: framework/options.php:532
+msgid "Define your popup bottom text."
+msgstr ""
+
+#: framework/options.php:540
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/options.php:545
+msgid "Show/Hide Breadcrumb on Blog Single page"
+msgstr ""
+
+#: framework/options.php:546
+msgid "Show/hide Breadcrumb on Blog Single page."
+msgstr ""
+
+#: framework/options.php:554
+msgid "Display Side on Blog Single page"
+msgstr ""
+
+#: framework/options.php:555
+msgid "Define blog single page layout option."
+msgstr ""
+
+#: framework/options.php:564
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: framework/options.php:570
+msgid "Display Sidebar on Product Page?"
+msgstr ""
+
+#: framework/options.php:571
+msgid "Show or Hide Product Sidebar."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:368
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:369
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:371
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:373
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:374
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:436
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:437
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:438
+#: framework/plugins/theme-plugins-activation.php:3078
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:439
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:442
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:445
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:448
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:449
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:450
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:451
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:666
+msgid "Update Required"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:781
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:1088
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:1088
+#: framework/plugins/theme-plugins-activation.php:1099
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:1099
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2049
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2319
+msgid "Required"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2321
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2335
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2338
+msgid "External Source"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2341
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2356
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2359
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2361
+msgid "Active"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2365
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2367
+msgid "Requires Update"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2369
+msgid "Update recommended"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2376
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2501
+msgid "unknown"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2507
+msgid "Installed version:"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2514
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2524
+msgid "Available version:"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2545
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2558
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2559
+msgid "Source"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2560
+msgid "Type"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2563
+msgid "Version"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2564
+msgid "Status"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2608
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2613
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2618
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2683
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2712
+msgid "Install"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2717
+msgid "Update"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2720
+msgid "Activate"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2745
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2747
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2780
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2782
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2864
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:2885
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3077
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3369
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3372
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3374
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3377
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3379
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3380
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3382
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3385
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3387
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3388
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3390
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3394
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugins/theme-plugins-activation.php:3394
+msgid "Hide Details"
+msgstr ""
+
+#: framework/theme-array.php:49 framework/theme-array.php:56
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/theme-array.php:50 framework/theme-array.php:57
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/theme-array.php:51 framework/theme-array.php:58
+msgid "No Sidebar"
+msgstr ""
+
+#: framework/theme-array.php:63 framework/theme-array.php:69
+#: framework/theme-array.php:76
+msgid "Yes"
+msgstr ""
+
+#: framework/theme-array.php:64 framework/theme-array.php:70
+#: framework/theme-array.php:75
+msgid "No"
+msgstr ""
+
+#: framework/theme-array.php:81
+msgid "no-repeat"
+msgstr ""
+
+#: framework/theme-array.php:82
+msgid "repeat"
+msgstr ""
+
+#: framework/theme-array.php:83
+msgid "repeat-x"
+msgstr ""
+
+#: framework/theme-array.php:84
+msgid "repeat-y"
+msgstr ""
+
+#: framework/theme-array.php:89
+msgid "center top"
+msgstr ""
+
+#: framework/theme-array.php:90
+msgid "center center"
+msgstr ""
+
+#: framework/theme-array.php:91
+msgid "center bottom"
+msgstr ""
+
+#: framework/theme-array.php:92
+msgid "center left"
+msgstr ""
+
+#: framework/theme-array.php:93
+msgid "bottom center"
+msgstr ""
+
+#: framework/theme-array.php:94
+msgid "bottom top"
+msgstr ""
+
+#: framework/theme-array.php:95
+msgid "bottom left"
+msgstr ""
+
+#: framework/theme-array.php:96
+msgid "bottom right"
+msgstr ""
+
+#: framework/theme-array.php:97
+msgid "top right"
+msgstr ""
+
+#: framework/theme-array.php:98
+msgid "top bottom"
+msgstr ""
+
+#: framework/theme-array.php:99
+msgid "top left"
+msgstr ""
+
+#: framework/theme-array.php:104
+msgid "Full Width"
+msgstr ""
+
+#: framework/theme-array.php:105
+msgid "Boxed"
+msgstr ""
+
+#: framework/theme-array.php:110
+msgid "Fixed"
+msgstr ""
+
+#: framework/theme-functions.php:19
+msgid "View your shopping cart"
+msgstr ""
+
+#: framework/theme-functions.php:94
+msgid "Header Top Menus"
+msgstr ""
+
+#: framework/theme-functions.php:131
+msgid ""
+"Read More <i class=\"fa fa-long-arrow-right right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: functions.php:56 functions.php:153
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:57 functions.php:164
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:121
+msgid "Espresso"
+msgstr ""
+
+#: functions.php:125
+msgid "Sandwich"
+msgstr ""
+
+#: functions.php:129
+msgid "Coffee"
+msgstr ""
+
+#: functions.php:222
+msgid "on"
+msgstr ""
+
+#: functions.php:266
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:268
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:277
+msgid "Footer Top Column Area 1"
+msgstr ""
+
+#: functions.php:279 functions.php:289 functions.php:299 functions.php:309
+#: functions.php:319 functions.php:329
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:287
+msgid "Footer Top Column Area 2"
+msgstr ""
+
+#: functions.php:297
+msgid "Footer Top Column Area 3"
+msgstr ""
+
+#: functions.php:307
+msgid "Footer Top Column Area 4"
+msgstr ""
+
+#: functions.php:317
+msgid "Footer Top Column Area 5"
+msgstr ""
+
+#: functions.php:327
+msgid "Footer Bottom Column Area"
+msgstr ""
+
+#: functions.php:410
+msgid "Expand child menu"
+msgstr ""
+
+#: functions.php:411
+msgid "Collapse child menu"
+msgstr ""
+
+#: inc/back-compat.php:44 inc/back-compat.php:57 inc/back-compat.php:73
+#, php-format
+msgid ""
+"Nileforest requires at least WordPress version 4.7. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: inc/custom-header.php:53
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/custom-header.php:116
+msgid "Play background video"
+msgstr ""
+
+#: inc/custom-header.php:117
+msgid "Pause background video"
+msgstr ""
+
+#: inc/icon-functions.php:43
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-functions.php:48
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/template-tags.php:22
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid "Categories:&nbsp;"
+msgstr ""
+
+#: inc/template-tags.php:89
+msgid "Tags:&nbsp;"
+msgstr ""
+
+#: inc/template-tags.php:117
+#, php-format
+msgid "Edit<span> \"%s\"</span>"
+msgstr ""
+
+#: index.php:37
+msgid "Posts"
+msgstr ""
+
+#: search.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:28 template-parts/post/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:54
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:20
+msgid "Search"
+msgstr ""
+
+#: single-portfolio.php:39 single.php:39
+msgid "Previous Post"
+msgstr ""
+
+#: single-portfolio.php:40 single.php:40
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/footer/site-info.php:18
+msgid "Copyright"
+msgstr ""
+
+#: template-parts/header/header-image.php:18
+msgid ":"
+msgstr ""
+
+#: template-parts/header/header-popup.php:38
+msgid "&#10006; Close"
+msgstr ""
+
+#: template-parts/header/header-search.php:19
+msgid "Enter keywords to Search Product"
+msgstr ""
+
+#: template-parts/navigation/navigation-top.php:25
+#: template-parts/navigation/navigation-top.php:36
+#: template-parts/navigation/navigation-top.php:50
+msgid "Menu"
+msgstr ""
+
+#: template-parts/page/content-front-page-panels.php:46
+#: template-parts/page/content-front-page.php:49
+#: template-parts/post/content-audio.php:85
+#: template-parts/post/content-blog.php:53
+#: template-parts/post/content-gallery.php:78
+#: template-parts/post/content-image.php:60
+#: template-parts/post/content-portfolio.php:55
+#: template-parts/post/content-video.php:86 template-parts/post/content.php:61
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/page/content-page.php:19
+#: template-parts/post/content-audio.php:90
+#: template-parts/post/content-blog.php:58
+#: template-parts/post/content-gallery.php:83
+#: template-parts/post/content-image.php:65
+#: template-parts/post/content-portfolio.php:60
+#: template-parts/post/content-video.php:91 template-parts/post/content.php:66
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/post/content-portfolio.php:68
+msgid "Project Details"
+msgstr ""
+
+#: template-parts/post/content-portfolio.php:70
+msgid "Author :"
+msgstr ""
+
+#: template-parts/post/content-portfolio.php:71
+msgid "Date :"
+msgstr ""
+
+#: template-parts/post/content-portfolio.php:72
+msgid "Website :"
+msgstr ""
+
+#: woocommerce/archive-product.php:77
+msgid "View"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/mini-cart.php:88
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:92
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:27
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:62
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:79
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:50
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:40
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:63
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:39 woocommerce/myaccount/form-login.php:49
+#: woocommerce/myaccount/form-login.php:98
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:49 woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:57
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:52 woocommerce/myaccount/form-login.php:59
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:56 woocommerce/myaccount/form-login.php:63
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:45
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:84
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:91
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:40
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:33
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:36
+#: woocommerce/order/order-details-customer.php:54
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:52
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:39
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:39
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:40
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:45
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:50
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:65
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:110
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/share.php:30
+msgid "Share:"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""

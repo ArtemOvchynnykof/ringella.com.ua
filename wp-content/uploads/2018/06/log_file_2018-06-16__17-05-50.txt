@@ -1,0 +1,132 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Файл пуст. Пожалуйста, загрузите что-то более существенное. Эта ошибка также может означать, что в php.ini запрещены загрузки, либо значение post_max_size меньше, чем upload_max_filesize.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost
+Data file = /var/www/html/wp-content/uploads/2018/06/philos-content.xml
+Widget file = /var/www/html/wp-content/uploads/2018/06/philos-widgets.wie
+Customizer file = /var/www/html/wp-content/uploads/2018/06/philos-options.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Меню навигации - Shop Categories - Imported to Inactive
+Filter Products by Price - Filter by price - Imported to Inactive
+Active Product Filters - Active filters - Imported to Inactive
+Filter Products by Attribute - Filter by color - Imported to Inactive
+Filter Products by Attribute - Filter by size - Imported to Inactive
+Product Tag Cloud - Product tags - Imported to Inactive
+Products by Rating - Top rated products - Imported to Inactive
+Изображение - No Title - Imported to Inactive
+
+Main Sidebar : 
+
+Поиск - No Title - Imported
+Рубрики - No Title - Imported
+Свежие записи - No Title - Imported
+Свежие комментарии - No Title - Imported
+Облако меток - POPULAR TAG - Imported
+
+Footer Top Column Area 1 : 
+
+Текст - No Title - Imported
+NF - Follow Us Widget - No Title - Imported
+
+Footer Top Column Area 2 : 
+
+Меню навигации - Information - Imported
+
+Footer Top Column Area 3 : 
+
+Меню навигации - Our Links - Imported
+
+Footer Top Column Area 4 : 
+
+Меню навигации - Extra Links - Imported
+
+Footer Top Column Area 5 : 
+
+NF - Contact Us Widget - Contact - Imported
+
+Footer Bottom Column Area : 
+
+MailPoet Subscription Form - Subscribe Newsletter - Imported
+
+Max Mega Menu Widgets : 
+
+Изображение - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
